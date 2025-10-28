@@ -1,0 +1,44 @@
+C:\Users\alber\source\repos\ds4\Proyecto 1\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\bin\Debug\Proyecto#1-Calculadora.exe.config
+C:\Users\alber\source\repos\ds4\Proyecto 1\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\bin\Debug\Proyecto#1-Calculadora.exe
+C:\Users\alber\source\repos\ds4\Proyecto 1\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\bin\Debug\Proyecto#1-Calculadora.pdb
+C:\Users\alber\source\repos\ds4\Proyecto 1\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto1-Calculadora.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\ds4\Proyecto 1\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto_1_Calculadora.Form1.resources
+C:\Users\alber\source\repos\ds4\Proyecto 1\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto_1_Calculadora.Properties.Resources.resources
+C:\Users\alber\source\repos\ds4\Proyecto 1\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto1-Calculadora.csproj.GenerateResource.cache
+C:\Users\alber\source\repos\ds4\Proyecto 1\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto1-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\ds4\Proyecto 1\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto#1-Calculadora.exe
+C:\Users\alber\source\repos\ds4\Proyecto 1\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto#1-Calculadora.pdb
+C:\Users\alber\source\repos\ds4\Proyecto 1\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto#1-Calculadora.exe.config
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\bin\Debug\Proyecto#1-Calculadora.exe.config
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\bin\Debug\Proyecto#1-Calculadora.exe
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\bin\Debug\Proyecto#1-Calculadora.pdb
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto1-Calculadora.csproj.AssemblyReference.cache
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto#1-Calculadora.exe.config
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto_1_Calculadora.Form1.resources
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto_1_Calculadora.Properties.Resources.resources
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto1-Calculadora.csproj.GenerateResource.cache
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto1-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto#1-Calculadora.exe
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto#1-Calculadora.pdb
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar (2)\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\bin\Debug\Proyecto#1-Calculadora.exe.config
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar (2)\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\bin\Debug\Proyecto#1-Calculadora.exe
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar (2)\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\bin\Debug\Proyecto#1-Calculadora.pdb
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar (2)\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto1-Calculadora.csproj.AssemblyReference.cache
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar (2)\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto#1-Calculadora.exe.config
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar (2)\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto_1_Calculadora.Form1.resources
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar (2)\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto_1_Calculadora.Properties.Resources.resources
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar (2)\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto1-Calculadora.csproj.GenerateResource.cache
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar (2)\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto1-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar (2)\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto#1-Calculadora.exe
+C:\Users\edg50\Downloads\Proyecto-1-DSV-IV-rama-edgar (2)\Proyecto-1-DSV-IV-rama-edgar\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto#1-Calculadora.pdb
+C:\Users\alber\source\repos\berserk50\Proyecto-1-DSV-IV\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\bin\Debug\Proyecto#1-Calculadora.exe.config
+C:\Users\alber\source\repos\berserk50\Proyecto-1-DSV-IV\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\bin\Debug\Proyecto#1-Calculadora.exe
+C:\Users\alber\source\repos\berserk50\Proyecto-1-DSV-IV\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\bin\Debug\Proyecto#1-Calculadora.pdb
+C:\Users\alber\source\repos\berserk50\Proyecto-1-DSV-IV\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto1-Calculadora.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\berserk50\Proyecto-1-DSV-IV\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto#1-Calculadora.exe.config
+C:\Users\alber\source\repos\berserk50\Proyecto-1-DSV-IV\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto_1_Calculadora.Form1.resources
+C:\Users\alber\source\repos\berserk50\Proyecto-1-DSV-IV\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto_1_Calculadora.Properties.Resources.resources
+C:\Users\alber\source\repos\berserk50\Proyecto-1-DSV-IV\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto1-Calculadora.csproj.GenerateResource.cache
+C:\Users\alber\source\repos\berserk50\Proyecto-1-DSV-IV\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto1-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\berserk50\Proyecto-1-DSV-IV\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto#1-Calculadora.exe
+C:\Users\alber\source\repos\berserk50\Proyecto-1-DSV-IV\Proyecto-1-DSV-IV-rama-edgar\Proyecto1-Calculadora\obj\Debug\Proyecto#1-Calculadora.pdb
